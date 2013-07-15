@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 40em;
   margin: 0 auto;
 }
 
@@ -127,6 +127,8 @@ h1, h2, h3, h4, h5, h6 {
 dt {
   font-style: italic;
   font-weight: bold;
+  border-bottom: 1px dashed #b5e853;
+  margin: 1em 0
 }
 
 
